@@ -10,7 +10,7 @@ header {
     color: coral;
     padding: 10px 10px;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
 }
 
